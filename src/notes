@@ -1,0 +1,16 @@
+a piKey: "AIzaSyCsPz_f7UL4Q-cYZhs1HP7v3twPIOKjRZU",
+  authDomain: "call-me-instagram.firebaseapp.com",
+  projectId: "call-me-instagram",
+  storageBucket: "call-me-instagram.appspot.com",
+  messagingSenderId: "756181765852",
+  appId: "1:756181765852:web:bd6487e94a98b6db6c6e19"
+
+---------------------------------------
+firebase login 
+firebase init
+firebase deploy
+
+ratethefuck.com
+call-me-instagram.web.app
+call-me-online-store.web.app
+comerate.me
